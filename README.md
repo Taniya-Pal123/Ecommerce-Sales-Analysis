@@ -103,7 +103,7 @@ Through this project, I gained practical experience in:
 
 **Taniya Pal**
 
-- GitHub: [Add your GitHub profile link](https://github.com/Taniya-Pal123)
+- GitHub:(https://github.com/Taniya-Pal123)
 
 
 ---
